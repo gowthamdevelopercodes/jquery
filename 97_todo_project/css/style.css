@@ -1,0 +1,13 @@
+.container {
+    /* background-color: #000; */
+    background: linear-gradient(to bottom right, #000046, #1CB5E0);
+    margin: 50px auto;
+    width: 400px !important;
+    color: #fff;
+}
+
+.grey {
+    color: #1CB5E0;
+    text-decoration: line-through;
+
+}
